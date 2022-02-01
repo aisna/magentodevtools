@@ -19,4 +19,4 @@ php7.2 bin/magento module:enable MSP_DevTools MSP_Common
 
 3、重新编译完成后;
 
-4、到后台开发模块就可以;
+4、到后台开放模块就可以;
